@@ -25,9 +25,26 @@ Box model
 Box sizing  
 ```css
 * {
+	-webkit-box-sizing: border-box;  
+    -moz-box-sizing: border-box;  
+    -ms-box-sizing: border-box;  
 	box-sizing: border-box;
 }
+```  
+
+Page outline   
+```css
+* {
+   outline: 1px solid red !important;
+}
 ```
+
+Code, Test, Refine  
+1. Look for natural boxes  
+2. Look for repeated styles & semantic elements  
+3. Write your HTML  
+4. Apply styles (from BIGGEST to smallest)  
+5. Fix things
 
 Folder structure
 ----
@@ -41,4 +58,5 @@ Links
 [Normalize.css: Make browsers render all elements more consistently](http://necolas.github.io/normalize.css/)  
 [Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning)  
 [The HTML5 Outline Algorithm](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document#The_HTML5_Outline_Algorithm)  
-[The Box Model](http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html)
+[The Box Model](http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html)  
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
