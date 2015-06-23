@@ -59,4 +59,6 @@ Links
 [Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning)  
 [The HTML5 Outline Algorithm](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document#The_HTML5_Outline_Algorithm)  
 [The Box Model](http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html)  
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+[Verify HTML](http://validator.w3.org/#validate_by_input)  
+[Verify CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)  
