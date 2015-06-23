@@ -1,6 +1,6 @@
 ## Lesson 2 - CSS Frameworks, Responsive Layouts
 
-Take pride in creating and personalising your own multi-platform, responsive CSS framework for publishing your professional portfolio projects to the web.
+Create your own CSS framework to speed up your next projects. Use the framework to turn a portfolio mock to a functional portfolio page.
 
 Notes
 ----
